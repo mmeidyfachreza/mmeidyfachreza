@@ -31,9 +31,8 @@ Here are some of the technologies and tools I love working with:
 
 Explore my repositories to find a variety of projects showcasing my skills and interests:
 
-    Sistem Informasi Kesehatan Siswa - [Brief description and link](https://github.com/mmeidyfachreza/sikeswa).
-    Project 2 - Brief description and link.
-    Project 3 - Brief description and link.
+    Sistem Informasi Kesehatan Siswa - https://github.com/mmeidyfachreza/sikeswa.
+    Sistem Informasi Nilai Siswa - https://github.com/mmeidyfachreza/Sistem-Informasi-Nilai-Siswa
 
 Feel free to open issues, submit pull requests, or reach out if you have any questions or suggestions.
 📝 Blog
